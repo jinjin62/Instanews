@@ -1,16 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="build/css/style.min.css" />
-    <title>Document</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Instanews App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      media="screen"
+      href="./build/css/style.min.css"
+    />
   </head>
   <body>
-    <h1>Instanews</h1>
-    <div class="stories"></div>
-    
+    <header id="heading" class="splash">
+      <!--scroll menu and logo and resize full screen to site size-->
+      <img alt="New York Times logo" src="assets/images/nyt-logo.svg" />
+      <div class="topsection">
+        <p>Choose a section:</p>
+        <div class="dropmenu">
+          <select id="options">
+            <option value>Selections...</option>
+            <option value="food">Food</option>
+            <option value="sports">Sports</option>
+            <option value="technology">Technology</option>
+            <option value="travel">Travel</option>
+            <option value="science">Science</option>
+            <option value="arts">Arts</option>
+          </select>
+        </div>
+      </div>
+    </header>
+    <div class="loadinggif">
+      <img alt="Loading..." src="assets/images/ajax-loader.gif" />
+    </div>
+    <section class="storygrid"><!--images and their descriptions--></section>
+    <div class="footer">
+      <!--copywrite-->
+      <p>&copy Copyright 2016 <span class="instanews">INSTANEWS</span></p>
+    </div>
     <script src="jquery-3.3.1.min.js"></script>
     <script src="build/js/script.min.js"></script>
   </body>
