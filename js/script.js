@@ -11,13 +11,13 @@
 //6. hide the loader again
 
 $(".storygrid").hide();
-// $(".loadinggif").hide();
+$(".loadinggif").hide();
 
 $("#options").on("change", function() {
   $(".storygrid").empty();
   $("#heading" /*header*/).attr("class", "top");
   $(".storygrid")
-    .delay(200)
+    .delay(300)
     .fadeIn();
   $(".loading").show();
 
@@ -37,23 +37,24 @@ function loadContent(value) {
     method: "GET",
     url: url
   })
+
     .done(function(data) {
-      var i = 0;
-      while (i <= 11) {
+      var index = 0;
+      while (index <= 11) {
         var stories = "";
 
-        // console.log(data.results[i].multimedia);
+        // console.log(data.results[index].multimedia);
 
-        if (data.results[i].multimedia.length > 0) {
+        if (data.results[index].multimedia.length > 0) {
           stories +=
             '<a target="_blank" href="' +
-            data.results[i].url +
+            data.results[index].url +
             '" class= "tiles">';
           stories += '<img src="';
-          stories += data.results[i].multimedia[4].url;
+          stories += data.results[index].multimedia[4].url;
           stories += '"/>';
           stories += '<p> "';
-          stories += data.results[i].abstract;
+          stories += data.results[index].abstract;
           stories += '"</p>';
           stories += "</a>";
 
@@ -62,8 +63,8 @@ function loadContent(value) {
           //   console.log(data.results);
         }
 
-        i++;
-      } // endwhile
+        index++;
+      } 
     })
 
     .fail(function(error) {
@@ -72,7 +73,7 @@ function loadContent(value) {
     .always(function() {
       $(".loading")
         .hide()
-        .delay(2000);
+        .delay(3000);
     });
 }
 
