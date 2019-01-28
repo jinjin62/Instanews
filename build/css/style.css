@@ -260,6 +260,23 @@ img[src="assets/images/ajax-loader.gif"] {
   width: 100%;
   height: auto;
   margin: 0; }
+  @media (min-width: 600px) {
+    .storygrid {
+      width: 100%; }
+      .storygrid a {
+        width: 50%; } }
+  @media (min-width: 1000px) {
+    .storygrid {
+      width: 100%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row; }
+      .storygrid a {
+        width: 25%; } }
 
 .tiles {
   width: 100%;
@@ -289,3 +306,8 @@ img[src="assets/images/ajax-loader.gif"] {
   margin-top: 20px; }
   .footer p {
     color: #c2c2c2; }
+  @media (min-width: 1000px) {
+    .footer {
+      text-align: start;
+      padding-left: 20px;
+      padding-top: 20px; } }

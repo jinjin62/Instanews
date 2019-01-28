@@ -64,7 +64,7 @@ function loadContent(value) {
         }
 
         index++;
-      } 
+      }
     })
 
     .fail(function(error) {

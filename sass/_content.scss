@@ -8,6 +8,24 @@
   width: 100%;
   height: auto;
   margin: 0;
+
+  @include tablet {
+    width: 100%;
+    a {
+        width: 50%;
+    }
+}
+
+  @include desktop {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  
+    a {
+        width: 25%;
+    }
+}
+
 }
 
 .tiles {
