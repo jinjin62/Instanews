@@ -8,6 +8,7 @@
   },
   "author": "Gavin Jin",
   "license": "ISC",
+  "repository": "https://github.com/jinjin62/Instanews",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "eslint": "^5.12.1",

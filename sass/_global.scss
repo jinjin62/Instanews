@@ -1,7 +1,14 @@
-html {
-  font-size: 16px;
-}
-
 body {
-  background-color: black;
+  background: black;
+  margin: 0;
+  // Remember to add font family
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  color: white;
+  text-decoration: none;
+    a{
+      color: white;
+    }
 }

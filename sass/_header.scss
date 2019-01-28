@@ -1,4 +1,59 @@
-h1 {
-    color: white;
-    font-size: 20em;
+//for moblie
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
+  height: 80vh;
+
+  img[src="images/nty-logo.svg"] {
+    max-width: 220px;
+    width: 20%;
+    height: 20%;
+  }
+  .choose {
+    padding: 15px 5px;
+  }
+}
+
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  z-index: 10;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  height: 300px;
+  transition: 1s;
+}
+
+img[src="assets/images/nyt-logo.svg"] {
+  width: 50%;
+  height: 50%;
+  max-width: 200px;
+}
+
+img[src="assets/images/ajax-loader.gif"] {
+  width: 140px;
+  height: 140px;
+}
+
+#options {
+  background: white;
+  width: 120px;
+  height: 30px;
+  font-size: 1em;
+}
+
+.topsection {
+  display: flex;
+  flex-direction: column;
 }

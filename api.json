@@ -1,0 +1,2298 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+  "section": "science",
+  "last_updated": "2019-01-25T13:47:17-05:00",
+  "num_results": 31,
+  "results": [
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "And You Thought the Platypus Was Odd",
+      "abstract": "\u201cWhen I first saw it, I just said \u2018What?!\u2019 and didn\u2019t speak for a while,\u201d said one of the researchers who studied the fossils of a prehistoric marine reptile.",
+      "url": "https://www.nytimes.com/2019/01/24/science/platypus-fossil-duckbill.html",
+      "byline": "By NICHOLAS ST. FLEUR",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T16:17:23-05:00",
+      "created_date": "2019-01-24T11:44:53-05:00",
+      "published_date": "2019-01-24T11:44:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Platypus",
+        "Fossils",
+        "Reptiles",
+        "Fish and Other Marine Life",
+        "duckbill",
+        "your-feed-science"
+      ],
+      "org_facet": ["Scientific Reports (Journal)"],
+      "per_facet": ["Motani, Ryosuke", "Cheng, Long"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25tb-platypus-03/25tb-platypus-03-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fossil of Eretmorhipis carrolldongi, a marine reptile with a tiny head and large paddle-like limbs.",
+          "copyright": "Long Cheng and Ryosuke Motani"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25tb-platypus-03/25tb-platypus-03-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fossil of Eretmorhipis carrolldongi, a marine reptile with a tiny head and large paddle-like limbs.",
+          "copyright": "Long Cheng and Ryosuke Motani"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25tb-platypus-03/merlin_149707521_3abbd175-45e1-4aa5-8336-35e8628509a9-articleInline.jpg",
+          "format": "Normal",
+          "height": 40,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fossil of Eretmorhipis carrolldongi, a marine reptile with a tiny head and large paddle-like limbs.",
+          "copyright": "Long Cheng and Ryosuke Motani"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25tb-platypus-03/25tb-platypus-03-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fossil of Eretmorhipis carrolldongi, a marine reptile with a tiny head and large paddle-like limbs.",
+          "copyright": "Long Cheng and Ryosuke Motani"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25tb-platypus-03/merlin_149707521_3abbd175-45e1-4aa5-8336-35e8628509a9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 436,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fossil of Eretmorhipis carrolldongi, a marine reptile with a tiny head and large paddle-like limbs.",
+          "copyright": "Long Cheng and Ryosuke Motani"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S4oVp9"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "How Long Is a Day on Saturn?",
+      "abstract": "The answer was hiding in the planet\u2019s rings.",
+      "url": "https://www.nytimes.com/2019/01/25/science/saturn-day-length.html",
+      "byline": "By NADIA DRAKE",
+      "item_type": "Article",
+      "updated_date": "2019-01-25T05:00:10-05:00",
+      "created_date": "2019-01-25T05:00:10-05:00",
+      "published_date": "2019-01-25T05:00:10-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Saturn (Planet)",
+        "Space and Astronomy",
+        "Cassini (Spacecraft)",
+        "Weights and Measures"
+      ],
+      "org_facet": ["Astrophysical Journal"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/29SCI-NUMBER/29SCI-NUMBER-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A full view of Saturn by the Cassini spacecraft acquired at a distance of approximately 870,000 miles on Oct. 28, 2016.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/29SCI-NUMBER/29SCI-NUMBER-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A full view of Saturn by the Cassini spacecraft acquired at a distance of approximately 870,000 miles on Oct. 28, 2016.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/29SCI-NUMBER/merlin_149343771_dfd3744c-0a81-41b7-a53d-2e8065a35960-articleInline.jpg",
+          "format": "Normal",
+          "height": 98,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A full view of Saturn by the Cassini spacecraft acquired at a distance of approximately 870,000 miles on Oct. 28, 2016.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/29SCI-NUMBER/29SCI-NUMBER-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A full view of Saturn by the Cassini spacecraft acquired at a distance of approximately 870,000 miles on Oct. 28, 2016.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/29SCI-NUMBER/merlin_149343771_dfd3744c-0a81-41b7-a53d-2e8065a35960-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1059,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A full view of Saturn by the Cassini spacecraft acquired at a distance of approximately 870,000 miles on Oct. 28, 2016.",
+          "copyright": "Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HvtDbn"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Where Sloths Find These Branches, Their Family Trees Expand",
+      "abstract": "A study showed that when some animals find a crucial resource, they can survive in changing environments and even thrive.",
+      "url": "https://www.nytimes.com/2019/01/22/science/sloths-diet-trees.html",
+      "byline": "By VERONIQUE GREENWOOD",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T13:16:54-05:00",
+      "created_date": "2019-01-22T13:16:54-05:00",
+      "published_date": "2019-01-22T13:16:54-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sloths (Animals)",
+        "Conservation of Resources",
+        "Trees and Shrubs",
+        "Reproduction (Biological)",
+        "Diet and Nutrition"
+      ],
+      "org_facet": ["Proceedings of the Royal Society B (Journal)"],
+      "per_facet": ["Garces-Restrepo, Mario"],
+      "geo_facet": ["Costa Rica"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-sloths/23tb-sloths-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sloth in Costa Rica.",
+          "copyright": "Karen Reyes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-sloths/23tb-sloths-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sloth in Costa Rica.",
+          "copyright": "Karen Reyes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-sloths/merlin_149583099_9e8bfb16-91b4-467e-bb18-dc2a98fde90e-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sloth in Costa Rica.",
+          "copyright": "Karen Reyes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-sloths/23tb-sloths-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sloth in Costa Rica.",
+          "copyright": "Karen Reyes"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-sloths/merlin_149583099_9e8bfb16-91b4-467e-bb18-dc2a98fde90e-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A sloth in Costa Rica.",
+          "copyright": "Karen Reyes"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S5C7tS"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "As Climate Warms, Plants Will Absorb Less CO\u2082, Study Finds",
+      "abstract": "Plants and soil absorb carbon dioxide, which helps mitigate climate change. But global warming will degrade that ability, scientists say.",
+      "url": "https://www.nytimes.com/2019/01/23/climate/plants-co2-climate-change.html",
+      "byline": "By KENDRA PIERRE-LOUIS",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T17:56:02-05:00",
+      "created_date": "2019-01-23T15:33:03-05:00",
+      "published_date": "2019-01-23T15:33:03-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Flowers and Plants",
+        "Carbon Dioxide",
+        "Global Warming",
+        "Greenhouse Gas Emissions",
+        "Environment",
+        "Research",
+        "Photosynthesis",
+        "Drought"
+      ],
+      "org_facet": ["Nature (Journal)"],
+      "per_facet": ["Gentine, Pierre"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/23cli-carb-dirt/23cli-carb-dirt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from the New York Botanical Garden. Plants absorb greenhouse gases, which helps mitigate climate change.",
+          "copyright": "Marian Carrasquero/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/23cli-carb-dirt/23cli-carb-dirt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from the New York Botanical Garden. Plants absorb greenhouse gases, which helps mitigate climate change.",
+          "copyright": "Marian Carrasquero/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/23cli-carb-dirt/merlin_140375706_3b661776-dd97-43ea-b918-0e57289949b5-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from the New York Botanical Garden. Plants absorb greenhouse gases, which helps mitigate climate change.",
+          "copyright": "Marian Carrasquero/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/23cli-carb-dirt/merlin_140375706_3b661776-dd97-43ea-b918-0e57289949b5-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from the New York Botanical Garden. Plants absorb greenhouse gases, which helps mitigate climate change.",
+          "copyright": "Marian Carrasquero/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/29/science/23cli-carb-dirt/merlin_140375706_3b661776-dd97-43ea-b918-0e57289949b5-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A view from the New York Botanical Garden. Plants absorb greenhouse gases, which helps mitigate climate change.",
+          "copyright": "Marian Carrasquero/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S8oFW6"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "During the Lunar Eclipse, Something Slammed Into the Moon",
+      "abstract": "A flash spotted on livestreams was likely caused by the crash of a tiny, fast-moving meteoroid left behind by a comet.",
+      "url": "https://www.nytimes.com/2019/01/23/science/lunar-eclipse-meteor-moon.html",
+      "byline": "By ROBIN GEORGE ANDREWS",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T12:49:08-05:00",
+      "created_date": "2019-01-23T10:40:05-05:00",
+      "published_date": "2019-01-23T10:40:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Moon",
+        "Eclipses",
+        "Meteors and Meteorites",
+        "Space and Astronomy"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/24moon/24moon-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white dot in the bottom left corner of the moon was a flash from a collision with the lunar surface likely caused by a meteorite during this week's lunar eclipse.",
+          "copyright": "Griffith Observatory"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/24moon/24moon-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white dot in the bottom left corner of the moon was a flash from a collision with the lunar surface likely caused by a meteorite during this week's lunar eclipse.",
+          "copyright": "Griffith Observatory"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/24moon/24moon-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white dot in the bottom left corner of the moon was a flash from a collision with the lunar surface likely caused by a meteorite during this week's lunar eclipse.",
+          "copyright": "Griffith Observatory"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/24moon/24moon-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white dot in the bottom left corner of the moon was a flash from a collision with the lunar surface likely caused by a meteorite during this week's lunar eclipse.",
+          "copyright": "Griffith Observatory"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/24moon/24moon-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1013,
+          "width": 1519,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A white dot in the bottom left corner of the moon was a flash from a collision with the lunar surface likely caused by a meteorite during this week's lunar eclipse.",
+          "copyright": "Griffith Observatory"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S6DoRm"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "3 Newborn Endangered Right Whales Seen After Year With No Births",
+      "abstract": "The sighting this winter of newborn whales off the coasts of Florida and Georgia is being greeted with mild optimism, as the North Atlantic population has dwindled.",
+      "url": "https://www.nytimes.com/2019/01/22/science/right-whales-calves-endangered-species.html",
+      "byline": "By KAREN WEINTRAUB",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T11:01:00-05:00",
+      "created_date": "2019-01-22T18:22:11-05:00",
+      "published_date": "2019-01-22T18:22:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Whales and Whaling",
+        "Endangered and Extinct Species",
+        "Birth Rates",
+        "North Atlantic right whale"
+      ],
+      "org_facet": ["New England Aquarium"],
+      "per_facet": [],
+      "geo_facet": ["Amelia Island (Fla)", "Georgia"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-whales/23tb-whales-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new mother, named 1204, and calf were spotted off Florida's Amelia Island on Jan. 17.",
+          "copyright": "Florida Fish and Wildlife Conservation Commission"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-whales/23tb-whales-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new mother, named 1204, and calf were spotted off Florida's Amelia Island on Jan. 17.",
+          "copyright": "Florida Fish and Wildlife Conservation Commission"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-whales/23tb-whales-articleInline.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new mother, named 1204, and calf were spotted off Florida's Amelia Island on Jan. 17.",
+          "copyright": "Florida Fish and Wildlife Conservation Commission"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-whales/23tb-whales-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new mother, named 1204, and calf were spotted off Florida's Amelia Island on Jan. 17.",
+          "copyright": "Florida Fish and Wildlife Conservation Commission"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/23tb-whales/23tb-whales-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1395,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new mother, named 1204, and calf were spotted off Florida's Amelia Island on Jan. 17.",
+          "copyright": "Florida Fish and Wildlife Conservation Commission"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S6SwOG"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Oceans Are Getting Louder, Posing Potential Threats to Marine Life",
+      "abstract": "Increasing ship traffic, sonar and seismic air gun blasts now planned for offshore drilling may be disrupting migration, reproduction and even the chatter of the seas\u2019 creatures.",
+      "url": "https://www.nytimes.com/2019/01/22/science/oceans-whales-noise-offshore-drilling.html",
+      "byline": "By JIM ROBBINS",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T15:32:53-05:00",
+      "created_date": "2019-01-22T02:30:11-05:00",
+      "published_date": "2019-01-22T02:30:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fish and Other Marine Life",
+        "Oceans and Seas",
+        "Noise",
+        "Whales and Whaling",
+        "Oil (Petroleum) and Gasoline",
+        "Animal Behavior",
+        "United States Politics and Government",
+        "Endangered and Extinct Species",
+        "Sonar",
+        "Offshore Drilling and Exploration"
+      ],
+      "org_facet": ["National Marine Fisheries Service"],
+      "per_facet": [],
+      "geo_facet": ["Atlantic Ocean"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-OCEANNOISE1/merlin_149253315_46eb78f1-80fa-44b6-b9ee-d11a48a7f71f-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A container ship crossing under the Lions Gate Bridge in Vancouver. Increasing traffic and the threat of seismic blasts for offshore drilling exploration are dangerous to marine life, scientists warn.",
+          "copyright": "Alana Paterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-OCEANNOISE1/merlin_149253315_46eb78f1-80fa-44b6-b9ee-d11a48a7f71f-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A container ship crossing under the Lions Gate Bridge in Vancouver. Increasing traffic and the threat of seismic blasts for offshore drilling exploration are dangerous to marine life, scientists warn.",
+          "copyright": "Alana Paterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-OCEANNOISE1/merlin_149253315_46eb78f1-80fa-44b6-b9ee-d11a48a7f71f-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A container ship crossing under the Lions Gate Bridge in Vancouver. Increasing traffic and the threat of seismic blasts for offshore drilling exploration are dangerous to marine life, scientists warn.",
+          "copyright": "Alana Paterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-OCEANNOISE1/merlin_149253315_46eb78f1-80fa-44b6-b9ee-d11a48a7f71f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A container ship crossing under the Lions Gate Bridge in Vancouver. Increasing traffic and the threat of seismic blasts for offshore drilling exploration are dangerous to marine life, scientists warn.",
+          "copyright": "Alana Paterson for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-OCEANNOISE1/merlin_149253315_46eb78f1-80fa-44b6-b9ee-d11a48a7f71f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A container ship crossing under the Lions Gate Bridge in Vancouver. Increasing traffic and the threat of seismic blasts for offshore drilling exploration are dangerous to marine life, scientists warn.",
+          "copyright": "Alana Paterson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S05IF3"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "How Ants Sniff Out the Right Path",
+      "abstract": "They may seem like automatons, but ants are surprisingly sophisticated in their navigational strategies.",
+      "url": "https://www.nytimes.com/2019/01/22/science/ants-navigate-scent.html",
+      "byline": "By JAMES GORMAN",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T10:57:10-05:00",
+      "created_date": "2019-01-22T02:30:07-05:00",
+      "published_date": "2019-01-22T02:30:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Ants", "Senses and Sensation"],
+      "org_facet": ["Harvard University", "Journal of Experimental Biology"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/22SCI-TAKE/22SCI-TAKE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/22SCI-TAKE/22SCI-TAKE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/22SCI-TAKE/22SCI-TAKE-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/22SCI-TAKE/22SCI-TAKE-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/science/22SCI-TAKE/merlin_149392641_6807c7f0-f02b-4c9e-99e1-f0d433b75d7c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "iStock/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S36YaG"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Coming Soon to a Police Station Near You: The DNA \u2018Magic Box\u2019",
+      "abstract": "With Rapid DNA machines, genetic fingerprinting could become as routine as the old-fashioned kind. But forensic experts see a potential for misuse.",
+      "url": "https://www.nytimes.com/2019/01/21/science/dna-crime-gene-technology.html",
+      "byline": "By HEATHER MURPHY",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T15:18:01-05:00",
+      "created_date": "2019-01-21T02:30:07-05:00",
+      "published_date": "2019-01-21T02:30:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police",
+        "DNA (Deoxyribonucleic Acid)",
+        "Forensic Science",
+        "Crime and Criminals",
+        "Laboratories and Scientific Equipment",
+        "Civil Rights and Liberties"
+      ],
+      "org_facet": ["Federal Bureau of Investigation"],
+      "per_facet": [],
+      "geo_facet": ["Bensalem (Pa)", "Bucks County (Pa)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/10/science/00RAPIDDNA2/merlin_133154421_28d47b4b-b5ab-4538-85cd-ed4433d646ca-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Rapid DNA machine can reveal whether an individual\u2019s DNA matches genetic evidence collected from a local crime.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/10/science/00RAPIDDNA2/merlin_133154421_28d47b4b-b5ab-4538-85cd-ed4433d646ca-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Rapid DNA machine can reveal whether an individual\u2019s DNA matches genetic evidence collected from a local crime.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/10/science/00RAPIDDNA2/merlin_133154421_28d47b4b-b5ab-4538-85cd-ed4433d646ca-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Rapid DNA machine can reveal whether an individual\u2019s DNA matches genetic evidence collected from a local crime.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/10/science/00RAPIDDNA2/merlin_133154421_28d47b4b-b5ab-4538-85cd-ed4433d646ca-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Rapid DNA machine can reveal whether an individual\u2019s DNA matches genetic evidence collected from a local crime.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/10/science/00RAPIDDNA2/merlin_133154421_28d47b4b-b5ab-4538-85cd-ed4433d646ca-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Rapid DNA machine can reveal whether an individual\u2019s DNA matches genetic evidence collected from a local crime.",
+          "copyright": "Mark Makela for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HpdDrD"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "Why a Border Wall Could Mean Trouble for Wildlife",
+      "abstract": "If the Trump administration extends the wall at the southern border, it could degrade important habitats for animals and plants, even birds and insects.",
+      "url": "https://www.nytimes.com/2019/01/24/climate/border-wall-wildlife.html",
+      "byline": "By JOHN SCHWARTZ",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T17:14:18-05:00",
+      "created_date": "2019-01-24T17:14:18-05:00",
+      "published_date": "2019-01-24T17:14:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Border Barriers",
+        "Environment",
+        "Animals",
+        "Endangered and Extinct Species",
+        "Biodiversity",
+        "Wildlife Sanctuaries and Nature Reserves",
+        "Flowers and Plants",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Customs and Border Protection (US)"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["Rio Grande Valley (Tex)", "Texas"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25cli-envirowall-print/25cli-envirowall-00-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mexican gray wolf on the Sevilleta National Wildlife Refuge in New Mexico.",
+          "copyright": "Jim Clark/United States Fish and Wildlife Service, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25cli-envirowall-print/25cli-envirowall-00-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mexican gray wolf on the Sevilleta National Wildlife Refuge in New Mexico.",
+          "copyright": "Jim Clark/United States Fish and Wildlife Service, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25cli-envirowall-print/merlin_61540523_aab8fdee-2f90-4afb-921f-113128c536f0-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mexican gray wolf on the Sevilleta National Wildlife Refuge in New Mexico.",
+          "copyright": "Jim Clark/United States Fish and Wildlife Service, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25cli-envirowall-print/25cli-envirowall-00-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mexican gray wolf on the Sevilleta National Wildlife Refuge in New Mexico.",
+          "copyright": "Jim Clark/United States Fish and Wildlife Service, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25cli-envirowall-print/merlin_61540523_aab8fdee-2f90-4afb-921f-113128c536f0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 471,
+          "width": 699,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Mexican gray wolf on the Sevilleta National Wildlife Refuge in New Mexico.",
+          "copyright": "Jim Clark/United States Fish and Wildlife Service, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S5CrJc"
+    },
+    {
+      "section": "Obituaries",
+      "subsection": "",
+      "title": "Douglas Costle, Who Helped Create the E.P.A. and Then Ran It, Dies at 79",
+      "abstract": "He helped conceive the environmental agency that President Nixon created in 1970 and oversaw it through crises in the Carter administration.",
+      "url": "https://www.nytimes.com/2019/01/24/obituaries/douglas-costle-dead.html",
+      "byline": "By SAM ROBERTS",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T15:43:55-05:00",
+      "created_date": "2019-01-24T13:42:19-05:00",
+      "published_date": "2019-01-24T13:42:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Environment",
+        "Hazardous and Toxic Substances",
+        "Water Pollution",
+        "Air Pollution"
+      ],
+      "org_facet": ["Environmental Protection Agency"],
+      "per_facet": ["Costle, Douglas"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/24COSTLE1/24COSTLE1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Douglas M. Costle, the administrator of the Environmental Protection Agency, in 1979 announcing a nationwide effort to identify and seal or remove potentially cancer-causing asbestos in public schools. Almost a decade earlier, Mr. Costlehad helped draw up the blueprints for the agency.",
+          "copyright": "United Press International"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/24COSTLE1/24COSTLE1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Douglas M. Costle, the administrator of the Environmental Protection Agency, in 1979 announcing a nationwide effort to identify and seal or remove potentially cancer-causing asbestos in public schools. Almost a decade earlier, Mr. Costlehad helped draw up the blueprints for the agency.",
+          "copyright": "United Press International"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/24COSTLE1/24COSTLE1-articleInline.jpg",
+          "format": "Normal",
+          "height": 179,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Douglas M. Costle, the administrator of the Environmental Protection Agency, in 1979 announcing a nationwide effort to identify and seal or remove potentially cancer-causing asbestos in public schools. Almost a decade earlier, Mr. Costlehad helped draw up the blueprints for the agency.",
+          "copyright": "United Press International"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/24COSTLE1/24COSTLE1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Douglas M. Costle, the administrator of the Environmental Protection Agency, in 1979 announcing a nationwide effort to identify and seal or remove potentially cancer-causing asbestos in public schools. Almost a decade earlier, Mr. Costlehad helped draw up the blueprints for the agency.",
+          "copyright": "United Press International"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/24COSTLE1/merlin_149646012_643af3b1-b672-4d67-aaa3-8fd46b43d6e6-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1934,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Douglas M. Costle, the administrator of the Environmental Protection Agency, in 1979 announcing a nationwide effort to identify and seal or remove potentially cancer-causing asbestos in public schools. Almost a decade earlier, Mr. Costlehad helped draw up the blueprints for the agency.",
+          "copyright": "United Press International"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HxUd3M"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title": "In Davos, Prince William Calls for Action on Mental Health",
+      "abstract": "The second in line to the British throne said his generation should break with the British tradition to keep quiet about emotional struggles.",
+      "url": "https://www.nytimes.com/2019/01/24/world/europe/prince-william-mental-health.html",
+      "byline": "By PALKO KARASZ",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T23:40:19-05:00",
+      "created_date": "2019-01-24T10:29:09-05:00",
+      "published_date": "2019-01-24T10:29:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Mental Health and Disorders"],
+      "org_facet": ["World Economic Forum"],
+      "per_facet": ["William, Duke of Cambridge"],
+      "geo_facet": ["Davos (Switzerland)"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2HD1UpA"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Deadly Ebola Virus Is Found in Liberian Bat, Researchers Say",
+      "abstract": "Long a suspected source of the virus, bats had not been confirmed as carriers of the lethal disease in West Africa before. The discovery could help scientists learn more about how the virus infects humans.",
+      "url": "https://www.nytimes.com/2019/01/24/health/ebola-bat-liberia-epidemic.html",
+      "byline": "By DENISE GRADY",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T11:32:55-05:00",
+      "created_date": "2019-01-24T09:00:07-05:00",
+      "published_date": "2019-01-24T09:00:07-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Bats", "Ebola Virus", "Epidemics", "Research"],
+      "org_facet": ["EcoHealth Alliance"],
+      "per_facet": [],
+      "geo_facet": [
+        "Liberia",
+        "Congo, Democratic Republic of (Congo-Kinshasa)",
+        "West Africa"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25ebola-01/25ebola-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor administered a blood test to check for the Ebola virus at a clinic in Monrovia, Liberia, in 2015.",
+          "copyright": "Daniel Berehulak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25ebola-01/25ebola-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor administered a blood test to check for the Ebola virus at a clinic in Monrovia, Liberia, in 2015.",
+          "copyright": "Daniel Berehulak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25ebola-01/merlin_95081645_b80c64a1-f8eb-4648-b680-6ecab776ea0b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor administered a blood test to check for the Ebola virus at a clinic in Monrovia, Liberia, in 2015.",
+          "copyright": "Daniel Berehulak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25ebola-01/25ebola-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor administered a blood test to check for the Ebola virus at a clinic in Monrovia, Liberia, in 2015.",
+          "copyright": "Daniel Berehulak for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/25/science/25ebola-01/merlin_95081645_b80c64a1-f8eb-4648-b680-6ecab776ea0b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A doctor administered a blood test to check for the Ebola virus at a clinic in Monrovia, Liberia, in 2015.",
+          "copyright": "Daniel Berehulak for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HveMOt"
+    },
+    {
+      "section": "Business",
+      "subsection": "",
+      "title": "Dark-Sky Tourism: Under the Idaho Sky, a Sense of Belonging",
+      "abstract": "For a transcendant trip, head away from light pollution and crane your neck towards the stars.",
+      "url": "https://www.nytimes.com/2019/01/24/business/dark-sky-tourism-idaho.html",
+      "byline": "By WENDY MACNAUGHTON",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T05:00:15-05:00",
+      "created_date": "2019-01-24T05:00:15-05:00",
+      "published_date": "2019-01-24T05:00:15-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Space and Astronomy",
+        "Travel and Vacations",
+        "Stars and Galaxies",
+        "Planets",
+        "Urban Areas"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Idaho"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/business/27meanwhile-promo/27meanwhile-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 854,
+          "width": 1280,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2Hubpau"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Spinal Fractures Can Be Terribly Painful. A Common Treatment Isn\u2019t Helping.",
+      "abstract": "Injections of bone cement into fractured vertebrae fail to relieve pain any more than a placebo does, researchers found.",
+      "url": "https://www.nytimes.com/2019/01/24/health/spinal-fracture-treatment.html",
+      "byline": "By GINA KOLATA",
+      "item_type": "Article",
+      "updated_date": "2019-01-24T13:54:59-05:00",
+      "created_date": "2019-01-24T00:01:04-05:00",
+      "published_date": "2019-01-24T00:01:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Spine (Body Part)",
+        "Bone Fractures",
+        "Pain-Relieving Drugs",
+        "Surgery and Surgeons",
+        "Pain",
+        "Osteoporosis"
+      ],
+      "org_facet": [
+        "Journal of Bone and Mineral Research",
+        "Monash University"
+      ],
+      "per_facet": ["Ebeling, Peter"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/science/24spine-02/24spine-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X ray showing cement injected into a collapsed lumbar vertebra in a 65-year-old patient. Scientists say the procedure, while common, does not effectively relieve pain.",
+          "copyright": "Scott Camazine, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/science/24spine-02/24spine-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X ray showing cement injected into a collapsed lumbar vertebra in a 65-year-old patient. Scientists say the procedure, while common, does not effectively relieve pain.",
+          "copyright": "Scott Camazine, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/science/24spine-02/24spine-02-articleInline.jpg",
+          "format": "Normal",
+          "height": 262,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X ray showing cement injected into a collapsed lumbar vertebra in a 65-year-old patient. Scientists say the procedure, while common, does not effectively relieve pain.",
+          "copyright": "Scott Camazine, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/science/24spine-02/24spine-02-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X ray showing cement injected into a collapsed lumbar vertebra in a 65-year-old patient. Scientists say the procedure, while common, does not effectively relieve pain.",
+          "copyright": "Scott Camazine, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/science/24spine-02/24spine-02-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1485,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An X ray showing cement injected into a collapsed lumbar vertebra in a 65-year-old patient. Scientists say the procedure, while common, does not effectively relieve pain.",
+          "copyright": "Scott Camazine, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S38wBq"
+    },
+    {
+      "section": "Obituaries",
+      "subsection": "",
+      "title": "Mary Boyd Higgins, Wilhelm Reich\u2019s Devoted Trustee, Is Dead at 93",
+      "abstract": "She volunteered for the job with a father of the sexual revolution, even though she had never met him. She protected his legacy and republished his books.",
+      "url": "https://www.nytimes.com/2019/01/23/obituaries/mary-boyd-higgins-dead.html",
+      "byline": "By KATHARINE Q. SEELYE",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T22:31:00-05:00",
+      "created_date": "2019-01-23T18:53:47-05:00",
+      "published_date": "2019-01-23T18:53:47-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Archives and Records",
+        "Wills and Estates",
+        "Sex",
+        "Deaths (Obituaries)",
+        "Orgone"
+      ],
+      "org_facet": [],
+      "per_facet": ["Higgins, Mary Boyd (1925-2019)", "Reich, Wilhelm"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/22HIGGINS1/22HIGGINS1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Boyd Higgins in 2000 at the Wilhelm Reich Museum in Rangeley, Me. As Dr. Reich\u2019s longtime trustee and the museum\u2019s director, she had rehabilitated the property, originally bought by him in the 1940s.",
+          "copyright": "Michael C. York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/22HIGGINS1/22HIGGINS1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Boyd Higgins in 2000 at the Wilhelm Reich Museum in Rangeley, Me. As Dr. Reich\u2019s longtime trustee and the museum\u2019s director, she had rehabilitated the property, originally bought by him in the 1940s.",
+          "copyright": "Michael C. York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/22HIGGINS1/22HIGGINS1-articleInline.jpg",
+          "format": "Normal",
+          "height": 198,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Boyd Higgins in 2000 at the Wilhelm Reich Museum in Rangeley, Me. As Dr. Reich\u2019s longtime trustee and the museum\u2019s director, she had rehabilitated the property, originally bought by him in the 1940s.",
+          "copyright": "Michael C. York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/22HIGGINS1/22HIGGINS1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Boyd Higgins in 2000 at the Wilhelm Reich Museum in Rangeley, Me. As Dr. Reich\u2019s longtime trustee and the museum\u2019s director, she had rehabilitated the property, originally bought by him in the 1940s.",
+          "copyright": "Michael C. York/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/24/obituaries/22HIGGINS1/merlin_149383494_26e70797-c5a3-4cd5-8e6f-ebc14e2a22d8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2000,
+          "width": 1920,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mary Boyd Higgins in 2000 at the Wilhelm Reich Museum in Rangeley, Me. As Dr. Reich\u2019s longtime trustee and the museum\u2019s director, she had rehabilitated the property, originally bought by him in the 1940s.",
+          "copyright": "Michael C. York/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HoXUZs"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "How to Stop Rogue Gene-Editing of Human Embryos?",
+      "abstract": "Some U.S. researchers knew of a Chinese scientist\u2019s intentions to implant edited embryos but were unable to stop him. Now scientific institutions are trying to devise global safeguards.",
+      "url": "https://www.nytimes.com/2019/01/23/health/gene-editing-babies-crispr.html",
+      "byline": "By PAM BELLUCK",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T22:12:17-05:00",
+      "created_date": "2019-01-23T17:31:33-05:00",
+      "published_date": "2019-01-23T17:31:33-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Genetic Engineering",
+        "Crispr (DNA)",
+        "Ethics and Official Misconduct",
+        "Academic and Scientific Journals",
+        "In Vitro Fertilization"
+      ],
+      "org_facet": [],
+      "per_facet": ["He Jiankui"],
+      "geo_facet": ["China"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Luong for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Luong for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Luong for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Luong for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/00GENE-zhang/00GENE-zhang-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tony Luong for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HG7FTt"
+    },
+    {
+      "section": "Travel",
+      "subsection": "",
+      "title": "Take a DNA Test, Then Buy an Airplane Ticket",
+      "abstract": "For more and more people, learning about their genetic makeup is just the first step. The second is heading to the airport so they can explore their roots in person.",
+      "url": "https://www.nytimes.com/2019/01/22/travel/ancestry-dna-test-travel.html",
+      "byline": "By SHIVANI VORA",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T10:56:11-05:00",
+      "created_date": "2019-01-22T10:56:11-05:00",
+      "published_date": "2019-01-22T10:56:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Genealogy",
+        "Travel and Vacations",
+        "Ancestry and Heritage"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/travel/27trending-dna1/merlin_148523202_e5e8c2d3-9b3e-4e5b-8404-efbb6d300681-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rondel Holder followed the results of his home DNA test to Togo and Benin.",
+          "copyright": "Nathan Bajar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/travel/27trending-dna1/merlin_148523202_e5e8c2d3-9b3e-4e5b-8404-efbb6d300681-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rondel Holder followed the results of his home DNA test to Togo and Benin.",
+          "copyright": "Nathan Bajar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/travel/27trending-dna1/27trending-dna1-articleInline.jpg",
+          "format": "Normal",
+          "height": 246,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rondel Holder followed the results of his home DNA test to Togo and Benin.",
+          "copyright": "Nathan Bajar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/travel/27trending-dna1/27trending-dna1-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rondel Holder followed the results of his home DNA test to Togo and Benin.",
+          "copyright": "Nathan Bajar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/27/travel/27trending-dna1/merlin_148523202_e5e8c2d3-9b3e-4e5b-8404-efbb6d300681-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1583,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rondel Holder followed the results of his home DNA test to Togo and Benin.",
+          "copyright": "Nathan Bajar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S4BKja"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "Global Warming Concerns Rise Among Americans in New Poll",
+      "abstract": "\u201cI\u2019ve never seen jumps in some of the key indicators like this,\u201d the lead researcher said.",
+      "url": "https://www.nytimes.com/2019/01/22/climate/americans-global-warming-poll.html",
+      "byline": "By JOHN SCHWARTZ",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T15:48:45-05:00",
+      "created_date": "2019-01-22T10:00:28-05:00",
+      "published_date": "2019-01-22T10:00:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Global Warming", "Polls and Public Opinion"],
+      "org_facet": [
+        "Yale Program on Climate Change Communication",
+        "George Mason University Center for Climate Change Communication"
+      ],
+      "per_facet": ["Leiserowitz, Anthony (1966- )"],
+      "geo_facet": ["United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/climate/23cli-americans-print/23climate1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search teams in the aftermath of the Camp Fire in Paradise, Calif., last year.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/climate/23cli-americans-print/23climate1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search teams in the aftermath of the Camp Fire in Paradise, Calif., last year.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/climate/23cli-americans-print/merlin_146956701_d190eba5-6ea9-4938-ac4b-dd05e8ca8d0f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search teams in the aftermath of the Camp Fire in Paradise, Calif., last year.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/climate/23cli-americans-print/merlin_146956701_d190eba5-6ea9-4938-ac4b-dd05e8ca8d0f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search teams in the aftermath of the Camp Fire in Paradise, Calif., last year.",
+          "copyright": "Eric Thayer for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/23/climate/23cli-americans-print/merlin_146956701_d190eba5-6ea9-4938-ac4b-dd05e8ca8d0f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Search teams in the aftermath of the Camp Fire in Paradise, Calif., last year.",
+          "copyright": "Eric Thayer for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HotPJK"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Scientists Are Teaching the Body to Accept New Organs",
+      "abstract": "Patients receiving new kidneys and livers must take damaging anti-rejection drugs for the rest of their lives. Now researchers hope to train the immune system instead of just tamping it down.",
+      "url": "https://www.nytimes.com/2019/01/22/health/organ-transplants-immune-system.html",
+      "byline": "By GINA KOLATA",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T17:06:00-05:00",
+      "created_date": "2019-01-22T02:30:04-05:00",
+      "published_date": "2019-01-22T02:30:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Transplants",
+        "Kidneys",
+        "Organ Donation",
+        "Liver",
+        "Immune System",
+        "Drugs (Pharmaceuticals)"
+      ],
+      "org_facet": [
+        "Dana-Farber Cancer Institute",
+        "Massachusetts General Hospital",
+        "University of Pittsburgh Medical Center"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-TRANSPLANT1/22SCI-TRANSPLANT1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Schaffer, who received a liver transplant, is the first to undergo a new procedure that may help wean organ recipients from anti-rejection drugs.",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-TRANSPLANT1/22SCI-TRANSPLANT1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Schaffer, who received a liver transplant, is the first to undergo a new procedure that may help wean organ recipients from anti-rejection drugs.",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-TRANSPLANT1/22SCI-TRANSPLANT1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Schaffer, who received a liver transplant, is the first to undergo a new procedure that may help wean organ recipients from anti-rejection drugs.",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-TRANSPLANT1/22SCI-TRANSPLANT1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Schaffer, who received a liver transplant, is the first to undergo a new procedure that may help wean organ recipients from anti-rejection drugs.",
+          "copyright": "Kristian Thacker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-TRANSPLANT1/merlin_147990651_72646611-1ccb-4978-b251-2d93a3942078-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Schaffer, who received a liver transplant, is the first to undergo a new procedure that may help wean organ recipients from anti-rejection drugs.",
+          "copyright": "Kristian Thacker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RZEtuj"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "Greenland\u2019s Melting Ice Nears a \u2018Tipping Point,\u2019 Scientists Say",
+      "abstract": "With the Arctic warming rapidly, ice loss in Greenland is accelerating and may soon be a major factor in rising sea levels, according to a new study.",
+      "url": "https://www.nytimes.com/2019/01/21/climate/greenland-ice.html",
+      "byline": "By JOHN SCHWARTZ",
+      "item_type": "Article",
+      "updated_date": "2019-01-22T17:01:35-05:00",
+      "created_date": "2019-01-21T15:00:05-05:00",
+      "published_date": "2019-01-21T15:00:05-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Ice",
+        "Research",
+        "Greenhouse Gas Emissions",
+        "Oceans and Seas"
+      ],
+      "org_facet": [
+        "Proceedings of the National Academy of Sciences",
+        "Nature (Journal)"
+      ],
+      "per_facet": ["Bevis, Michael"],
+      "geo_facet": ["Greenland", "Arctic Regions", "Antarctic Regions"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2RV6GCE"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "A Rising Threat to Pregnant Women: Syphilis",
+      "abstract": "The S.T.D. has gained ground among all women in the U.S., including those who are expecting.",
+      "url": "https://www.nytimes.com/2019/01/21/health/syphilis-women-pregnancy.html",
+      "byline": "By NICHOLAS BAKALAR",
+      "item_type": "Article",
+      "updated_date": "2019-01-21T10:37:36-05:00",
+      "created_date": "2019-01-21T10:37:36-05:00",
+      "published_date": "2019-01-21T10:37:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Syphilis",
+        "Sexually Transmitted Diseases",
+        "Pregnancy and Childbirth",
+        "Babies and Infants",
+        "Bacteria"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Obstetrics & Gynecology (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-NUMBER/22SCI-NUMBER-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treponema pallidum bacterium, which causes syphilis. It can be passed from mother to child during pregnancy or birth.",
+          "copyright": "Susan Lindsley/CDC, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-NUMBER/22SCI-NUMBER-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treponema pallidum bacterium, which causes syphilis. It can be passed from mother to child during pregnancy or birth.",
+          "copyright": "Susan Lindsley/CDC, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-NUMBER/22SCI-NUMBER-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treponema pallidum bacterium, which causes syphilis. It can be passed from mother to child during pregnancy or birth.",
+          "copyright": "Susan Lindsley/CDC, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-NUMBER/22SCI-NUMBER-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treponema pallidum bacterium, which causes syphilis. It can be passed from mother to child during pregnancy or birth.",
+          "copyright": "Susan Lindsley/CDC, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SCI-NUMBER/22SCI-NUMBER-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treponema pallidum bacterium, which causes syphilis. It can be passed from mother to child during pregnancy or birth.",
+          "copyright": "Susan Lindsley/CDC, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RZn4Sy"
+    },
+    {
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "title": "Scientist Who Edited Babies\u2019 Genes Is Likely to Face Charges in China",
+      "abstract": "A Chinese government investigation found that He Jiankui had \u201cseriously violated\u201d state regulations by altering human embryos.",
+      "url": "https://www.nytimes.com/2019/01/21/world/asia/china-gene-editing-babies-he-jiankui.html",
+      "byline": "By AUSTIN RAMZY and SUI-LEE WEE",
+      "item_type": "Article",
+      "updated_date": "2019-01-21T20:49:32-05:00",
+      "created_date": "2019-01-21T06:05:37-05:00",
+      "published_date": "2019-01-21T06:05:37-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Genetics and Heredity",
+        "Ethics and Official Misconduct",
+        "Crispr (DNA)",
+        "Genetic Engineering"
+      ],
+      "org_facet": [],
+      "per_facet": ["He Jiankui"],
+      "geo_facet": ["China", "Hong Kong"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22china-doc-1/22china-doc-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "He Jiankui in Hong Kong in November, when he announced that he had altered the genes of human embryos to make them resistant to H.I.V. infection.",
+          "copyright": "Alex Hofford/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22china-doc-1/22china-doc-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "He Jiankui in Hong Kong in November, when he announced that he had altered the genes of human embryos to make them resistant to H.I.V. infection.",
+          "copyright": "Alex Hofford/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22china-doc-1/merlin_147417411_903d875e-66aa-452a-81b2-b65ae7027af0-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "He Jiankui in Hong Kong in November, when he announced that he had altered the genes of human embryos to make them resistant to H.I.V. infection.",
+          "copyright": "Alex Hofford/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22china-doc-1/22china-doc-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "He Jiankui in Hong Kong in November, when he announced that he had altered the genes of human embryos to make them resistant to H.I.V. infection.",
+          "copyright": "Alex Hofford/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22china-doc-1/merlin_147417411_903d875e-66aa-452a-81b2-b65ae7027af0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1383,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "He Jiankui in Hong Kong in November, when he announced that he had altered the genes of human embryos to make them resistant to H.I.V. infection.",
+          "copyright": "Alex Hofford/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S04l9x"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "Lunar Eclipse and Supermoon: Photos From Around the World",
+      "abstract": "Photographers captured scenes in the skies as the Earth\u2019s shadow covered the moon.",
+      "url": "https://www.nytimes.com/2019/01/21/science/lunar-eclipse-supermoon.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T10:49:38-05:00",
+      "created_date": "2019-01-21T01:58:02-05:00",
+      "published_date": "2019-01-21T01:58:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Space and Astronomy", "Eclipses", "Moon", "Photography"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22eclipse-top/22eclipse-top-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A combination photo showing the different stages of the blood moon and supermoon during a total lunar eclipse in Los Angeles, on Sunday.",
+          "copyright": "Ringo H.W. Chiu/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22eclipse-top/22eclipse-top-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A combination photo showing the different stages of the blood moon and supermoon during a total lunar eclipse in Los Angeles, on Sunday.",
+          "copyright": "Ringo H.W. Chiu/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22eclipse-top/merlin_149518659_30d63c98-541c-478a-a1ae-aecdffb873c0-articleInline.jpg",
+          "format": "Normal",
+          "height": 59,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A combination photo showing the different stages of the blood moon and supermoon during a total lunar eclipse in Los Angeles, on Sunday.",
+          "copyright": "Ringo H.W. Chiu/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22eclipse-top/22eclipse-top-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A combination photo showing the different stages of the blood moon and supermoon during a total lunar eclipse in Los Angeles, on Sunday.",
+          "copyright": "Ringo H.W. Chiu/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/sports/22eclipse-top/merlin_149518659_30d63c98-541c-478a-a1ae-aecdffb873c0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 637,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A combination photo showing the different stages of the blood moon and supermoon during a total lunar eclipse in Los Angeles, on Sunday.",
+          "copyright": "Ringo H.W. Chiu/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HAHEVB"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "The Lunar Eclipse and Supermoon: How to Watch It Tonight",
+      "abstract": "You don\u2019t really need to call it a \u201cSuper Blood Wolf Moon.\u201d",
+      "url": "https://www.nytimes.com/2019/01/20/science/lunar-eclipse-supermoon.html",
+      "byline": "By NICHOLAS ST. FLEUR",
+      "item_type": "Article",
+      "updated_date": "2019-01-23T10:49:00-05:00",
+      "created_date": "2019-01-20T04:00:04-05:00",
+      "published_date": "2019-01-20T04:00:04-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Space and Astronomy", "Moon", "Eclipses"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22eclipse1/22eclipse1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the moon was obscured by Earth\u2019s shadow as a total lunar eclipse began on Sunday in Miami.",
+          "copyright": "Gaston De Cardenas/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22eclipse1/22eclipse1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the moon was obscured by Earth\u2019s shadow as a total lunar eclipse began on Sunday in Miami.",
+          "copyright": "Gaston De Cardenas/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22eclipse1/22eclipse1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the moon was obscured by Earth\u2019s shadow as a total lunar eclipse began on Sunday in Miami.",
+          "copyright": "Gaston De Cardenas/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22eclipse1/22eclipse1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the moon was obscured by Earth\u2019s shadow as a total lunar eclipse began on Sunday in Miami.",
+          "copyright": "Gaston De Cardenas/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22eclipse1/22eclipse1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Part of the moon was obscured by Earth\u2019s shadow as a total lunar eclipse began on Sunday in Miami.",
+          "copyright": "Gaston De Cardenas/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RW9wHu"
+    },
+    {
+      "section": "Style",
+      "subsection": "",
+      "title": "Do You Take This Robot \u2026",
+      "abstract": "Today we fall in love through our phones. Maybe your phone itself could be just as satisfying?",
+      "url": "https://www.nytimes.com/2019/01/19/style/sex-robots.html",
+      "byline": "By ALEX WILLIAMS",
+      "item_type": "Article",
+      "updated_date": "2019-01-19T09:56:44-05:00",
+      "created_date": "2019-01-19T06:00:01-05:00",
+      "published_date": "2019-01-19T06:00:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Robots and Robotics",
+        "Artificial Intelligence",
+        "Sex",
+        "your-feed-selfcare"
+      ],
+      "org_facet": ["Abyss Creations LLC"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/20/style/20digisexuals-wide/20digisexuals-wide-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Tracy Ma/The New York Times; Getty Images (hand)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/20/style/20digisexuals-wide/20digisexuals-wide-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Tracy Ma/The New York Times; Getty Images (hand)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/20/style/20digisexuals-wide/20digisexuals-wide-articleInline.jpg",
+          "format": "Normal",
+          "height": 240,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Tracy Ma/The New York Times; Getty Images (hand)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/20/style/20digisexuals-wide/20digisexuals-wide-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Tracy Ma/The New York Times; Getty Images (hand)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/20/style/20digisexuals-wide/20digisexuals-wide-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by Tracy Ma/The New York Times; Getty Images (hand)"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S1HaMc"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "Brace for the Polar Vortex; It May Be Visiting More Often",
+      "abstract": "A researcher says that as the climate changes, \u201cwinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter.\u201d",
+      "url": "https://www.nytimes.com/2019/01/18/climate/polar-vortex-2019.html",
+      "byline": "By KENDRA PIERRE-LOUIS",
+      "item_type": "Article",
+      "updated_date": "2019-01-21T10:46:06-05:00",
+      "created_date": "2019-01-18T18:14:36-05:00",
+      "published_date": "2019-01-18T18:14:36-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Global Warming",
+        "Polar Vortex",
+        "Winter (Season)",
+        "Weather"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/02/19/climate/19cli-vortex/19cli-vortex-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Syracuse on Sunday. \u201cWinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter,\u201d a researcher said.",
+          "copyright": "Dennis Nett/The Post-Standard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/19/climate/19cli-vortex/19cli-vortex-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Syracuse on Sunday. \u201cWinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter,\u201d a researcher said.",
+          "copyright": "Dennis Nett/The Post-Standard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/19/climate/19cli-vortex/merlin_149498547_66661b36-ee4e-46d6-b261-14d40cba75b0-articleInline.jpg",
+          "format": "Normal",
+          "height": 123,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Syracuse on Sunday. \u201cWinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter,\u201d a researcher said.",
+          "copyright": "Dennis Nett/The Post-Standard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/19/climate/19cli-vortex/19cli-vortex-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Syracuse on Sunday. \u201cWinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter,\u201d a researcher said.",
+          "copyright": "Dennis Nett/The Post-Standard, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/02/19/climate/19cli-vortex/merlin_149498547_66661b36-ee4e-46d6-b261-14d40cba75b0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1266,
+          "width": 1948,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Syracuse on Sunday. \u201cWinter is shortening, but you\u2019re getting these more intensive periods in that shorter winter,\u201d a researcher said.",
+          "copyright": "Dennis Nett/The Post-Standard, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RTztHO"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title": "These Species Were Said to Be Extinct. Really, They Were Just Hard to Find.",
+      "abstract": "A surprising number of plants and animals have been discovered alive and well after scientists had declared them long gone.",
+      "url": "https://www.nytimes.com/2019/01/18/science/these-species-were-said-to-be-extinct-really-they-were-just-hard-to-find.html",
+      "byline": "By C. CLAIBORNE RAY",
+      "item_type": "Article",
+      "updated_date": "2019-01-18T17:32:16-05:00",
+      "created_date": "2019-01-18T17:32:16-05:00",
+      "published_date": "2019-01-18T17:32:16-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Endangered and Extinct Species",
+        "Paleontology",
+        "Fossils",
+        "Fish and Other Marine Life"
+      ],
+      "org_facet": [],
+      "per_facet": ["Courtenay-Latimer, Marjorie"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22QNALIVINGFOSSIL/22QNALIVINGFOSSIL-thumbStandard-v4.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victoria Roberts"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22QNALIVINGFOSSIL/22QNALIVINGFOSSIL-thumbLarge-v4.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victoria Roberts"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22QNALIVINGFOSSIL/22QNALIVINGFOSSIL-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 188,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victoria Roberts"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22QNALIVINGFOSSIL/22QNALIVINGFOSSIL-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victoria Roberts"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22QNALIVINGFOSSIL/22QNALIVINGFOSSIL-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1511,
+          "width": 1530,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Victoria Roberts"
+        }
+      ],
+      "short_url": "https://nyti.ms/2RU79VC"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "The Elderly and Driving: When Is It Time to Hit the Brakes?",
+      "abstract": "Prince Philip, 97, was involved in a car accident outside London. For families everywhere, the incident raises all-too-familiar questions.",
+      "url": "https://www.nytimes.com/2019/01/18/health/elderly-driving-cars-safety.html",
+      "byline": "By THE NEW YORK TIMES",
+      "item_type": "Article",
+      "updated_date": "2019-01-19T01:37:20-05:00",
+      "created_date": "2019-01-18T17:13:57-05:00",
+      "published_date": "2019-01-18T17:13:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Traffic Accidents and Safety",
+        "Automobile Safety Features and Defects",
+        "Elderly",
+        "Elder Care",
+        "Dementia",
+        "Royal Families"
+      ],
+      "org_facet": ["New York Times"],
+      "per_facet": ["Philip, Duke of Edinburgh"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/19DRIVING1b/19DRIVING1b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince Philip talking with Queen Elizabeth II at Windsor in May. He was involved in a car accident on Thursday, raising questions in Britain about when seniors should stop driving.",
+          "copyright": "Steve Parsons/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/19DRIVING1b/19DRIVING1b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince Philip talking with Queen Elizabeth II at Windsor in May. He was involved in a car accident on Thursday, raising questions in Britain about when seniors should stop driving.",
+          "copyright": "Steve Parsons/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/19DRIVING1b/19DRIVING1b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince Philip talking with Queen Elizabeth II at Windsor in May. He was involved in a car accident on Thursday, raising questions in Britain about when seniors should stop driving.",
+          "copyright": "Steve Parsons/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/19DRIVING1b/19DRIVING1b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince Philip talking with Queen Elizabeth II at Windsor in May. He was involved in a car accident on Thursday, raising questions in Britain about when seniors should stop driving.",
+          "copyright": "Steve Parsons/Press Association, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/19/science/19DRIVING1b/19DRIVING1b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prince Philip talking with Queen Elizabeth II at Windsor in May. He was involved in a car accident on Thursday, raising questions in Britain about when seniors should stop driving.",
+          "copyright": "Steve Parsons/Press Association, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S08El0"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Hospitals Stopped Readmitting So Many Medicare Patients. Did That Cost Lives?",
+      "abstract": "A new government program was supposed to prevent certain Medicare recipients from cycling in and out of hospitals. Now experts worry some older patients are being denied necessary care.",
+      "url": "https://www.nytimes.com/2019/01/18/health/medicare-hospitals-readmissions.html",
+      "byline": "By PAULA SPAN",
+      "item_type": "Article",
+      "updated_date": "2019-01-19T10:17:32-05:00",
+      "created_date": "2019-01-18T15:09:23-05:00",
+      "published_date": "2019-01-18T15:09:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Hospitals",
+        "Elderly",
+        "Medicare",
+        "Fines (Penalties)",
+        "Heart",
+        "Pneumonia",
+        "Patient Protection and Affordable Care Act (2010)"
+      ],
+      "org_facet": [
+        "Beth Israel Deaconess Medical Center",
+        "Harvard University",
+        "Health Affairs (Journal)",
+        "Journal of the American Medical Assn",
+        "Medicare Payment Advisory Commission",
+        "University of California, Los Angeles"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SPANREADMISSIONS/merlin_149278434_57cc1aa7-b4ee-48d3-adb3-ad1af23eaa3c-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Frazier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SPANREADMISSIONS/merlin_149278434_57cc1aa7-b4ee-48d3-adb3-ad1af23eaa3c-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Frazier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SPANREADMISSIONS/merlin_149278434_57cc1aa7-b4ee-48d3-adb3-ad1af23eaa3c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Frazier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SPANREADMISSIONS/merlin_149278434_57cc1aa7-b4ee-48d3-adb3-ad1af23eaa3c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Frazier"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/22/science/22SPANREADMISSIONS/merlin_149278434_57cc1aa7-b4ee-48d3-adb3-ad1af23eaa3c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Craig Frazier"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HwWFYv"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Your Sweat Will See You Now",
+      "abstract": "A new device \u2014 wearable, wireless and battery free \u2014 improves the ability to monitor and diagnose health problems by analyzing the sweat on your skin.",
+      "url": "https://www.nytimes.com/2019/01/18/health/wearable-tech-sweat.html",
+      "byline": "By APOORVA MANDAVILLI",
+      "item_type": "Article",
+      "updated_date": "2019-01-18T14:58:00-05:00",
+      "created_date": "2019-01-18T14:19:23-05:00",
+      "published_date": "2019-01-18T14:19:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Sweating",
+        "Sensors",
+        "Cystic Fibrosis",
+        "Wearable Computing",
+        "Data-Mining and Database Marketing",
+        "Exercise",
+        "Skin",
+        "Diabetes",
+        "Innovation"
+      ],
+      "org_facet": ["Northwestern University", "Science Advances (Journal)"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/01/21/science/21SWEATSENSOR-print/19SWEATSENSOR1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A soft, wearable patch measures the chemical contents of sweat on the skin. It could be used to screen for cystic fibrosis, and give athletes real-time performance data.",
+          "copyright": "J. Rogers, Northwestern University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/21/science/21SWEATSENSOR-print/19SWEATSENSOR1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A soft, wearable patch measures the chemical contents of sweat on the skin. It could be used to screen for cystic fibrosis, and give athletes real-time performance data.",
+          "copyright": "J. Rogers, Northwestern University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/21/science/21SWEATSENSOR-print/19SWEATSENSOR1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A soft, wearable patch measures the chemical contents of sweat on the skin. It could be used to screen for cystic fibrosis, and give athletes real-time performance data.",
+          "copyright": "J. Rogers, Northwestern University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/21/science/21SWEATSENSOR-print/19SWEATSENSOR1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A soft, wearable patch measures the chemical contents of sweat on the skin. It could be used to screen for cystic fibrosis, and give athletes real-time performance data.",
+          "copyright": "J. Rogers, Northwestern University"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/01/21/science/21SWEATSENSOR-print/merlin_149165553_b34d5d12-c508-4afa-990d-3f6635a11ff9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A soft, wearable patch measures the chemical contents of sweat on the skin. It could be used to screen for cystic fibrosis, and give athletes real-time performance data.",
+          "copyright": "J. Rogers, Northwestern University"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HmRb2b"
+    }
+  ]
+}
