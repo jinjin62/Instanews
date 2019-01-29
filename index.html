@@ -1,45 +1,45 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Instanews App</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      media="screen"
-      href="./build/css/style.min.css"
-    />
-  </head>
-  <body>
-    <header class="header" id="heading">
-      <!--scroll menu and logo and resize full screen to site size-->
-      <img alt="New York Times logo" src="assets/images/nyt-logo.svg" />
-      <div class="topsection">
-        <p class="choose">Choose a section:</p>
-        <div class="dropmenu">
-          <select id="options">
-            <option value>Selections...</option>
-            <option value="technology">Technology</option>
-            <option value="food">Food</option>
-            <option value="science">Science</option>
-            <option value="world">World</option>
-            <option value="travel">Travel</option>
-            <option value="sports">Sports</option>
-          </select>
-        </div>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Instanews App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" media="screen" href="./build/css/style.min.css" />
+</head>
+
+<body>
+  <header class="header" id="heading">
+    <!--scroll menu and logo and resize full screen to site size-->
+    <img alt="New York Times logo" src="assets/images/nyt-logo.svg" />
+    <div class="topsection">
+      <p class="choose">Choose a section:</p>
+      <div class="dropmenu">
+        <select id="options">
+          <option value>Selections...</option>
+          <option value="technology">Technology</option>
+          <option value="food">Food</option>
+          <option value="science">Science</option>
+          <option value="world">World</option>
+          <option value="travel">Travel</option>
+          <option value="sports">Sports</option>
+        </select>
       </div>
-    </header>
-    <div class="loading">
-      <img alt="Loading..." src="assets/images/ajax-loader.gif" />
     </div>
-    <section class="storygrid"><!--images and their descriptions--></section>
-    <div class="footer">
-      <!--copywrite-->
-      <p>&copy Copyright 2016 <span class="instanews">INSTANEWS</span></p>
-    </div>
-    <script src="jquery-3.3.1.min.js"></script>
-    <script src="build/js/script.min.js"></script>
-  </body>
+  </header>
+  <div class="loading">
+    <img alt="Loading..." src="assets/images/ajax-loader.gif" />
+  </div>
+  <section class="storygrid">
+    <!--images and their descriptions-->
+  </section>
+  <div class="footer">
+    <!--copywrite-->
+    <p>&copy Copyright 2016<span class="instanews">INSTANEWS</span></p>
+  </div>
+  <script src="jquery-3.3.1.min.js"></script>
+  <script src="build/js/script.min.js"></script>
+</body>
+
 </html>
