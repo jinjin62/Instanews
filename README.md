@@ -5,4 +5,7 @@ This repo can be found at : https://github.com/jinjin62/Instanews
 To setup on your device, download from repo and run gulp in the file.
 
 Front page, taken from a mobile perspective.
-![Instanews](/Users/Gavin/Desktop/Instanewsfront.png "Instanews")
+![Instanews](device-images/Instanewsfront.png "Instanews")
+
+View of the site beyond the front page in desktop format.
+![Instanews](device-images/Instanews2.jpg "Instanews")
