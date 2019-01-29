@@ -190,12 +190,40 @@ body {
   -webkit-transition: 1s;
   transition: 1s;
   height: 80vh; }
-  .header img[src="images/nty-logo.svg"] {
-    max-width: 220px;
-    width: 20%;
-    height: 20%; }
-  .header .choose {
-    padding: 15px 5px; }
+  @media (min-width: 600px) {
+    .header {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      margin-left: 150px; }
+      .header img[src="images/nyt-logo.svg"] {
+        width: 40%;
+        height: 40%;
+        max-width: 220px; } }
+  @media (min-width: 1000px) {
+    .header {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      margin-left: 0px; }
+      .header img[src="images/nyt-logo.svg"] {
+        width: 220px; } }
+
+.choose {
+  padding: 15px 5px; }
 
 .loading {
   position: absolute;
@@ -223,6 +251,37 @@ body {
   height: 300px;
   -webkit-transition: 1s;
   transition: 1s; }
+  @media (min-width: 600px) {
+    .top {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: row;
+              flex-direction: row;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      margin-left: 150px; }
+      .top img[src="images/nyt-logo.svg"] {
+        width: 40%;
+        height: 40%;
+        max-width: 220px; } }
+  @media (min-width: 1000px) {
+    .top {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      margin-left: 0px; }
+      .top img[src="images/nyt-logo.svg"] {
+        width: 220px; } }
 
 img[src="assets/images/nyt-logo.svg"] {
   width: 50%;
@@ -310,4 +369,4 @@ img[src="assets/images/ajax-loader.gif"] {
     .footer {
       text-align: start;
       padding-left: 20px;
-      padding-top: 20px; } }
+      padding-top: 30px; } }
