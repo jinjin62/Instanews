@@ -29,7 +29,7 @@ function loadContent(value) {
   var url = "https://api.nytimes.com/svc/topstories/v2/" + value + ".json";
   url +=
     "?" +
-    $.param({
+    $.param({//test
       "api-key": "7GASR12G1Xh0u1vVwK7R35tHubffWv5y"
     });
 
