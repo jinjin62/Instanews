@@ -1,13 +1,13 @@
 .footer {
-    text-align: center;
-    height: 10vh;
-    margin-top: 20px;
-    p {
-      color: #c2c2c2;
-    }
-    @include desktop {
-     text-align: start;
-     padding-left: 20px;
-     padding-top: 20px;
-    }
+  text-align: center;
+  height: 10vh;
+  margin-top: 20px;
+  p {
+    color: #c2c2c2;
   }
+  @include desktop {
+    text-align: start;
+    padding-left: 20px;
+    padding-top: 30px;
+  }
+}
