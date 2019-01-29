@@ -4,6 +4,9 @@ This repo can be found at : https://github.com/jinjin62/Instanews
 
 To setup on your device, download from repo and run gulp in the file.
 
+Get your own API key from the New York Times:
+https://developer.nytimes.com/
+
 Front page, taken from a mobile perspective.
 ![Instanews](device-images/Instanewsfront.png "Instanews")
 
