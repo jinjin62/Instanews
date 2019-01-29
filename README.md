@@ -5,4 +5,4 @@ This repo can be found at : https://github.com/jinjin62/Instanews
 To setup on your device, download from repo and run gulp in the file.
 
 Front page, taken from a mobile perspective.
-![Alt text](../../Instanewsfront.png "Title")
+![Instanews](/Users/Gavin/Desktop/Instanewsfront.png "Instanews")
