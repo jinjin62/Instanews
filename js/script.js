@@ -15,9 +15,9 @@ $(".loadinggif").hide();
 
 $("#options").on("change", function() {
   $(".storygrid").empty();
-  $("#heading" /*header*/).attr("class", "top");//Added class="top" to style
+  $("#heading" /*header*/).attr("class", "top"); //Added class="top" to style
   $(".storygrid")
-    .delay(300)// Delay to show loader
+    .delay(300) // Delay to show loader
     .fadeIn();
   $(".loading").show();
 
@@ -29,7 +29,8 @@ function loadContent(value) {
   var url = "https://api.nytimes.com/svc/topstories/v2/" + value + ".json";
   url +=
     "?" +
-    $.param({//test why does this work? Why use this?
+    $.param({
+      //test why does this work? Why use this?
       "api-key": "7GASR12G1Xh0u1vVwK7R35tHubffWv5y"
     });
 
@@ -45,15 +46,15 @@ function loadContent(value) {
 
         if (data.results[index].multimedia.length > 0) {
           stories +=
-            '<a target="_blank" href="' +  //_new or _blank??
+            '<a target="_blank" href="' + //_new or _blank??
             data.results[index].url +
             '" class= "tiles">';
           stories += '<img src="';
           stories += data.results[index].multimedia[4].url;
           stories += '"/>';
-          stories += '<p> "';
+          stories += "<p> ";
           stories += data.results[index].abstract;
-          stories += '"</p>';
+          stories += "</p>";
           stories += "</a>";
 
           $(".storygrid").append(stories);
@@ -63,7 +64,8 @@ function loadContent(value) {
       }
     })
 
-    .fail(function(error) {// define?
+    .fail(function(error) {
+      // define?
       throw error;
     })
     .always(function() {
