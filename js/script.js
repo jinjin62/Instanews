@@ -21,12 +21,12 @@ $("#options").on("change", function() {
     .fadeIn();
   $(".loading").show();
 
-  var val = $(this).val();
+  let val = $(this).val();
   loadContent(val);
 });
 
 function loadContent(value) {
-  var url = "https://api.nytimes.com/svc/topstories/v2/" + value + ".json";
+  let url = "https://api.nytimes.com/svc/topstories/v2/" + value + ".json";
   url +=
     "?" +
     $.param({
@@ -40,9 +40,9 @@ function loadContent(value) {
   })
 
     .done(function(data) {
-      var index = 0;
+      let index = 0;
       while (index <= 11) {
-        var stories = "";
+        let stories = "";
 
         if (data.results[index].multimedia.length > 0) {
           stories +=
