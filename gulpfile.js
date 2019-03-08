@@ -23,6 +23,10 @@ const sass = require("gulp-sass");
 const autoprefixer = require("gulp-autoprefixer");
 const prettyError = require("gulp-prettyerror");
 
+const babel = require("gulp-babel");
+const input = "./build/js/script.min.js";
+const output = "build/js";
+
 // Task to compiling and minifying Sass
 gulp.task("sass", function() {
   return gulp
@@ -44,6 +48,7 @@ gulp.task("sass", function() {
 gulp.task("script", function() {
   return gulp
     .src(["./js/*.js"])
+    .pipe(babel())
     .pipe(terser())
     .pipe(rename({ extname: ".min.js" }))
     .pipe(gulp.dest("./build/js"));
@@ -79,5 +84,13 @@ gulp.task("lint-js", function() {
     .pipe(eslint.format())
     .pipe(eslint.failAfterError());
 });
+
+gulp.task("babel", () => {
+  return gulp
+    .src(input)
+    .pipe(babel())
+    .pipe(gulp.dest(output));
+});
+
 // default task
 gulp.task("default", gulp.parallel("browser-sync", "watch"));
